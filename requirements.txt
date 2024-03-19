@@ -11,7 +11,7 @@ cryptography==41.0.6
 dask>=2022.2.0
 datadog==0.44.0
 freezegun==1.2.2
-great_expectations==0.15.50
+great_expectations==0.18.8
 httpx==0.23.1
 inflection==0.5.1
 ipykernel==6.15.0
